@@ -14,7 +14,7 @@ long_description = read('README')
 
 setup(
     name='travisdemo',
-    version='0.1.1',
+    version='0.1.2',
     url='http://github.com/jsaponara/travisdemo/',
     license="Affero GNU General Public License v3",
     author='John Saponara',
