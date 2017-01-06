@@ -1,7 +1,5 @@
 from setuptools import setup
 import io
-import os
-#from opentaxforms.version import appversion
 
 def read(*filenames, **kwargs):
     encoding = kwargs.get('encoding', 'utf-8')
@@ -16,13 +14,12 @@ long_description = read('README')
 
 setup(
     name='travisdemo',
-    version='0.1',
+    version='0.1.1',
     url='http://github.com/jsaponara/travisdemo/',
     license="Affero GNU General Public License v3",
     author='John Saponara',
     tests_require=['pytest'],
     install_requires=[],
-    #scripts = ['script/otf'],
     author_email='john@opentaxforms.org',
     description='demonstrates a possible bug in TravisCI',
     long_description=long_description,
@@ -31,7 +28,6 @@ setup(
                  'travisdemo'},
     include_package_data=True,
     platforms='any',
-    #test_suite='test.test_opentaxforms',
     classifiers = [
         'Programming Language :: Python',
         'Development Status :: 3 - Alpha',
