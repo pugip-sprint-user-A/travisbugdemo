@@ -12,6 +12,16 @@ a conflicting python filename breaks the travis build, and perhaps
 to prompt some discussion at travis-ci.org about whether this is
 a bug.
 
+-  **Build status**
+
+   -  should be failing
+
+   |Build Status|
+
+-  **Github**
+
+   -  `code <https://github.com/jsaponara/travisdemo/>`__
+
 -  **License**
 
    `GNU AGPLv3 <http://choosealicense.com/licenses/agpl-3.0/>`__
@@ -19,16 +29,6 @@ a bug.
 -  **Install**
 
    pip install travisdemo
-
--  **Github**
-
-   -  `code <https://github.com/jsaponara/travisdemo/>`__
-
--  **Build status**
-
-   -  should be failing
-
-   |Build Status|
 
 -  **To do**
 
