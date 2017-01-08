@@ -15,7 +15,7 @@ travis-ci.org about whether this is a bug.
 
     -   should be failing
 
-    [Build Status](https://travis-ci.org/jsaponara/travisdemo.svg)](https://travis-ci.org/jsaponara/travisdemo)
+    [![Build Status](https://travis-ci.org/jsaponara/travisdemo.svg)](https://travis-ci.org/jsaponara/travisdemo)
 
 -   **Github**
 
